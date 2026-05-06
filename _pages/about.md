@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Atmospheric and Oceanic Sciences<br>University of California, Los Angeles</a>
+subtitle: <a href='#'>Postdoctoral Scholar<br>Department of Atmospheric and Oceanic Sciences<br>University of California, Los Angeles</a>
 
 profile:
   align: right
