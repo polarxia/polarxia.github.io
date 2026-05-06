@@ -49,3 +49,4 @@ The polar regions, particularly the Arctic and parts of the Antarctic, have beco
 
 My research centers on the intricate interactions among clouds, sea ice, and radiation, and how these coupled processes shape polar climate change. More recently, I have focused on understanding the foundamental physical mechanisms governing polar climate responses under cloud-based climate intervention pathways. These efforts combine multi-platform observations (including ground-based measurements, satellite observations, and reanalyses), multi-scale modeling approaches (ranging from large-eddy simulations and energy balance models to Earth system models), and polar-specific theoretical frameworks.
 
+Please feel free to get in touch with any questions or interest in collaboration.
