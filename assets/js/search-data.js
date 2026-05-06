@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-communication",
-          title: "Communication",
+        },{id: "nav-outreach",
+          title: "Outreach",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/communication/";
+            window.location.href = "/outreach/";
           },
         },{id: "nav-resources",
           title: "Resources",
