@@ -12,7 +12,7 @@ profile:
     <p style="font-size: 0.8rem; line-height: 1.0;">
       520 Portola Plaza<br>
       Math Sciences Building 7221<br>
-      Los Angeles, CA 90095
+      Los Angeles, CA 90095<br>
       Email: xiali007@atmos.ucla.edu
     </p>
 
