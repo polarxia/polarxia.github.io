@@ -9,10 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 0.95rem; line-height: 1.3;">
+    <p style="font-size: 0.8rem; line-height: 1.0;">
       520 Portola Plaza<br>
       Math Sciences Building 7221<br>
       Los Angeles, CA 90095
+      Email: xiali007@atmos.ucla.edu
     </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
