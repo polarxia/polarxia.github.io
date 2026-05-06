@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>UCLA|Department of Atmospheric and Oceanic Sciences</a>
+subtitle: <a href='#'>Department of Atmospheric and Oceanic Sciences<br>
+University of California, Los Angeles</a>
 
 profile:
   align: right
@@ -27,6 +28,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a climate scientist studying polar clouds, sea ice, and climate intervention pathways using Earth system models, theory, and observations.
+<!--
+### original text
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My research focuses on cloud–sea ice interactions, Arctic climate feedbacks, and the physical processes governing polar climate change.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
+
+Welcome! I am polar scientist and I study small-scale processes in polar atmosphere to address big questions on global climate system.
+
+The polar regions, particularly the Arctic and parts of the Antarctic, have become emblematic of climate change, with alarming consequences such as shrinking summer sea ice, warming oceans, thawing permafrost, and increasing boreal forest fires. Yet, major uncertainties, particularly regarding clouds, sea ice, and their interactions with radiation, persist. I believe addressing these challenges requires not only an integrated approach that combines scientific advancement with technical innovation, but also a broader, three-dimensional mindset encompassing mitigation, adaptation, and thoughtful climate intervention.
+
+My research centers on the intricate interactions among clouds, sea ice, and radiation, and how these coupled processes shape polar climate change. More recently, I have focused on understanding the foundamental physical mechanisms governing polar climate responses under cloud-based climate intervention pathways. These efforts combine multi-platform observations (including ground-based measurements, satellite observations, and reanalyses), multi-scale modeling approaches (ranging from large-eddy simulations and energy balance models to Earth system models), and polar-specific theoretical frameworks.
+
