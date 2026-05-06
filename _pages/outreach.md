@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Communication
-permalink: /communication/
+title: Outreach
+permalink: /outreach/
 nav: true
 nav_order: 5
 ---
