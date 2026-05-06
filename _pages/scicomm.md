@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Science Communications
-permalink: /scicomm/
+title: Communication
+permalink: /communication/
 nav: true
 nav_order: 5
 ---
