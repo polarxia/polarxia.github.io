@@ -16,9 +16,7 @@ profile:
   </p>
 
   <p style="font-size: 0.8rem; margin-top: 0.6rem;">
-    <a href="mailto:xiali007@atmos.ucla.edu">
       xiali007@atmos.ucla.edu
-    </a>
   </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
