@@ -9,8 +9,38 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
+<div class="publications">
+
+## In preparation / under review
+
+1. **X. Li** et al. Cloud-based Arctic radiation management in idealized CESM simulations. *In preparation.*
+
+2. **X. Li** et al. Small differences in sea ice concentration amplify low-level cloud discrepancies between CMIP6's CMIP and AMIP simulations. *To be submitted to GRL.*
+
+## Peer-reviewed publications
+
+1. **X. Li**, Z. Tan, Y. Zheng, M. Bushuk, and L. Donner. Open water in sea ice causes high bias in polar low-level clouds in GFDL CM4. *Geophysical Research Letters*, 50, 2023GL106322 (2023).
+
+2. **X. Li**, G. Mace, C. Strong, and S. Krueger. Wintertime cooling of the Arctic TOA by low-level clouds. *Geophysical Research Letters*, 50, e2023GL104869 (2023).
+
+3. **X. Li**, S. Krueger, C. Strong, and G. Mace. Relationship between midwinter leads and low clouds in the pan-Arctic. *Journal of Geophysical Research: Atmospheres*, 125, e2020JD032595 (2020).
+
+4. **X. Li**, S. Krueger, C. Strong, G. Mace, and S. Benson. Midwinter Arctic leads form and dissipate low clouds. *Nature Communications*, 11, 1–8 (2020).
+
+5. F. Li, J. Song, and **X. Li**. A preliminary evaluation of the necessity of using a cumulus parameterization scheme in high-resolution simulations of Typhoon Haiyan. *Natural Hazards*, 92(2), 647–671 (2018).
+
+6. F. Li, J. Song, H. He, S. Li, **X. Li**, and S. Guan. Assessment of surface drag coefficient parametrizations based on observations and simulations using the Weather Research and Forecasting model. *Atmospheric and Oceanic Science Letters*, 9(4), 327–336 (2016).
+
+7. **X. Li** and J. Zhu. A weakly coupled data assimilation system of a coupled physical–biological model for the northeastern South China Sea. *Atmospheric and Oceanic Science Letters*, 9(5), 352–360 (2016).
+
+</div>
+
+
+<!-- _pages/publications.md -->
+
 <!-- Bibsearch Feature -->
 
+<!--
 {% include bib_search.liquid %}
 
 <div class="publications">
@@ -18,3 +48,4 @@ nav_order: 3
 {% bibliography %}
 
 </div>
+--->
