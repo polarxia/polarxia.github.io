@@ -43,7 +43,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-Welcome! I am polar scientist and I study small-scale processes in polar atmosphere to address big questions on global climate system.
+Welcome! I am a polar scientist and I study small-scale processes in polar atmosphere to address big questions on global climate system.
 
 The polar regions, particularly the Arctic and parts of the Antarctic, have become emblematic of climate change, with alarming consequences such as shrinking summer sea ice, warming oceans, thawing permafrost, and increasing boreal forest fires. Yet, major uncertainties, particularly regarding clouds, sea ice, and their interactions with radiation, persist. I believe addressing these challenges requires not only an integrated approach that combines scientific advancement with technical innovation, but also a broader, three-dimensional mindset encompassing mitigation, adaptation, and thoughtful climate intervention.
 
